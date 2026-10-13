@@ -1,0 +1,1 @@
+"""Platform adapters — Windows shell, HTTP bridge, native kernels."""
