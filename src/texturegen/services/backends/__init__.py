@@ -1,0 +1,1 @@
+"""Generator backends (CPU procedural, GPU diffusion, ONNX, ...)."""
